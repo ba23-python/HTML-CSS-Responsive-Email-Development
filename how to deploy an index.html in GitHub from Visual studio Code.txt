@@ -1,0 +1,20 @@
+PS E:\GitHub\HTML Email Development> git init
+Initialized empty Git repository in E:/GitHub/HTML Email Development/.git/
+PS E:\GitHub\HTML Email Development> git init
+Reinitialized existing Git repository in E:/GitHub/HTML Email Development/.git/
+PS E:\GitHub\HTML Email Development> git add -A
+PS E:\GitHub\HTML Email Development> git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   assets/GitHub Page Profile Pic.jpg
+        new file:   assets/ProfilePic Github.PNG
+        new file:   assets/image1 GitHub.jpg
+        new file:   assets/style.css
+        new file:   index.html
+
+PS E:\GitHub\HTML Email Development>
